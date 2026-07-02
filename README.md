@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a motivated student starting my professional journey, focused on continuously improving my technical and analytical skills. I enjoy working with data, building models, and implementing algorithms to solve real-world problems. I am also passionate about digital and analog electronics, with a strong interest in embedded systems, circuit design, and the integration of hardware and software solutions.
+I am a motivated student starting my professional journey, focused on continuously improving my technical and analytical skills. I am passionate about digital and analog electronics, with a strong interest in embedded systems, circuit design, and the integration of hardware and software solutions.
 
 ## Contact
 
